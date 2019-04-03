@@ -18,4 +18,5 @@ function johnLennonFacts(facts){
   "He hated the sound of his own voice"
 ];
 
+while 
 }
