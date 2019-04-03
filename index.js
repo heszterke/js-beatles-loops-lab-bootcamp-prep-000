@@ -19,5 +19,5 @@ function johnLennonFacts(facts){
 ];
 }
 while 
-
+console.log
 }
