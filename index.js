@@ -23,13 +23,10 @@ function johnLennonFacts(facts){
     } return facts;
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(number){
   var array[];
-  function incrementVariable() {
-  i=i+1;
-  return i;
-  }
+    }
   do{
-    console.log("I love the Beatles!");
-  } while (incrementVariable() < 15);
+    return("I love the Beatles!");
+  } while (number() < 15);
 }
