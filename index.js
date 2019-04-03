@@ -30,6 +30,6 @@ function iLoveTheBeatles(){
   return i;
   }
   do{
-    console.log()
-  }
+    console.log("I love the Beatles!")
+  } while 
 }
