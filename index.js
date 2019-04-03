@@ -17,9 +17,9 @@ const facts = [
 ];
 
 function johnLennonFacts(facts){
+  var array = [];
+  var 
   
-  
-}
-while (johnLennonFacts()){
+} while (johnLennonFacts()){
 console.log ()
 }
