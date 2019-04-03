@@ -18,6 +18,6 @@ const facts = [
 
 function johnLennonFacts(facts){
   var i=0
-  while (i < johnLennonFacts()){
+  while (i < facts.length){
 console.log ()
 }
